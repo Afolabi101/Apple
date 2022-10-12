@@ -128,7 +128,7 @@ input {
     }
     .items {
         margin: 0;
-        padding: 0;
+        padding-top: 12%;
     }
     .col2 {
         padding: 0;
